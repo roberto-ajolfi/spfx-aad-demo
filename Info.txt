@@ -1,0 +1,11 @@
+AAD App Registration
+=====
+Display Name: WeatherAPI
+
+App ID: 7d34b4bd-f0c7-4d5d-99c3-35cd3a929625
+
+Tenant ID: e1ae344c-918c-4bc7-a6db-b49d0828aed3 (raghnor)
+
+Secret ID: f3dc8000-42f9-4b4d-8802-e2370e9ddd1e
+
+Secret Key: QdE7Q~ffxzzHhiwdajuPM165ah3G8-SUWLjnI

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "aad-test-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/aadTest/AadTestWebPart.js",
+          "manifest": "./src/webparts/aadTest/AadTestWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "AadTestWebPartStrings": "lib/webparts/aadTest/loc/{locale}.js"
+  }
+}
